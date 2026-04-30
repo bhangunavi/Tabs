@@ -72,7 +72,4 @@ This project helps beginners understand:
 - Event listeners
 - Dynamic class manipulation
 - UI state management
-
-## Author
-
-Your Name
+deploy : https://sunny-pithivier-363e65.netlify.app/
